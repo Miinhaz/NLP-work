@@ -1,1 +1,1 @@
-# NLP-work
+This repository contains a dataset created using ChatGPT, focused on the ongoing Israel-Palestine conflict. The dataset includes a range of text data, capturing different perspectives and narratives related to the conflict. NLP-based analysis has been performed on this dataset, aiming to gain insights into the language, sentiment, and discourse surrounding the conflict. The analysis includes text preprocessing, sentiment analysis.
